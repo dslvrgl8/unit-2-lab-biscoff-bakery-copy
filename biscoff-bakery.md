@@ -40,17 +40,6 @@ A new bakery specializing in Biscoff-inspired sweets is opening up soon and has 
 
 ## Getting Started
 
-You can find the starter code for this morning's lab as a downloadable asset! 
-
-<strong><a href="/downloads/backend_fundamentals/biscoff-starter.zip" download>Click here</a></strong> to download it! -- You'll perform your work in that folder after you "unzip" it!
-
-
-<br>
-<br>
-<br>
-
-
-
 #### Provided in the starter code
 1. `server.js` has a basic express server up and running, along with routes for *index* and *show*
 
